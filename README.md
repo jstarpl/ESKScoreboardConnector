@@ -7,7 +7,9 @@ output data read from there through OSC to a target OSC Server.
 Usage:
 ---
 
+```
 ESKScoreboardConnector <COM Port> <Target IP Address> [<Port>]
+```
 
 Packets:
 ---
